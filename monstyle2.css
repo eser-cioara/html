@@ -28,3 +28,7 @@ body{
 .top-image:hover{
 	opacity: 0.7;
 }
+.react{
+	width: 300px;
+	height: 300px;
+}
